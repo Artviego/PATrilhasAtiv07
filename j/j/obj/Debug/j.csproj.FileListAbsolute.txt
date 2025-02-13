@@ -1,0 +1,6 @@
+C:\Users\Arthur\source\repos\Matriz\j\j\bin\Debug\j.exe.config
+C:\Users\Arthur\source\repos\Matriz\j\j\bin\Debug\j.exe
+C:\Users\Arthur\source\repos\Matriz\j\j\bin\Debug\j.pdb
+C:\Users\Arthur\source\repos\Matriz\j\j\obj\Debug\j.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\source\repos\Matriz\j\j\obj\Debug\j.exe
+C:\Users\Arthur\source\repos\Matriz\j\j\obj\Debug\j.pdb
