@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Matriz\f\f\bin\Debug\f.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Matriz\f\f\bin\Debug\f.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Matriz\f\f\bin\Debug\f.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Matriz\f\f\obj\Debug\f.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Matriz\f\f\obj\Debug\f.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Matriz\f\f\obj\Debug\f.pdb
