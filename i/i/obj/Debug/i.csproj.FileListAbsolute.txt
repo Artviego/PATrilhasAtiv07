@@ -1,0 +1,6 @@
+C:\Users\Arthur\source\repos\Matriz\i\i\bin\Debug\i.exe.config
+C:\Users\Arthur\source\repos\Matriz\i\i\bin\Debug\i.exe
+C:\Users\Arthur\source\repos\Matriz\i\i\bin\Debug\i.pdb
+C:\Users\Arthur\source\repos\Matriz\i\i\obj\Debug\i.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\source\repos\Matriz\i\i\obj\Debug\i.exe
+C:\Users\Arthur\source\repos\Matriz\i\i\obj\Debug\i.pdb
